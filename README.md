@@ -27,3 +27,12 @@ Management teams make informed decisions based on data-driven insights.
 Employees engage with a transparent and accessible data platform.
 
 This dashboard serves as a valuable tool for anyone seeking to leverage HR data for strategic advantage.
+
+## *Contact*
+
+To learn more about this project and others:
+
+- [*Portfolio*](https://yashspatel.netlify.app/)
+- [*LinkedIn*](https://www.linkedin.com/in/yashsanjaykumarpatel/)
+- [*GitHub*](https://github.com/yashspatel)
+- [*My Resume*](https://yashspatel.netlify.app/images/Yash's%20Resume.pdf) 
